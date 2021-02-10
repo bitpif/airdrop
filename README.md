@@ -1,4 +1,4 @@
-150,000,000 BPF can be claimed now by past Uniswap liquidity providers, users, and SOCKS redeemers/holders. (Only those who used Uniswap before 1st September 2020 are eligible). <h1> tag
+<h1> tag 150,000,000 BPF can be claimed now by past Uniswap liquidity providers, users, and SOCKS redeemers/holders. (Only those who used Uniswap before 1st September 2020 are eligible).
 STEP 1 <h2> tag
 Visit bitpif.com
 STEP 2 <h2> tag

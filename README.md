@@ -1,5 +1,5 @@
 <h1> 150,000,000 BPF can be claimed now by past Uniswap liquidity providers, users, and SOCKS redeemers/holders. (Only those who used Uniswap before 1st September 2020 are eligible).
-STEP 1 <h2>
+<h2> STEP 1
 Visit bitpif.com
 STEP 2 <h2>
 Click the 3 dots on the upper, right-hand side of the drop-down menu, and click “Claim BPF”.
